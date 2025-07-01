@@ -1,3 +1,4 @@
+<img width="1178" alt="Retail Customer Overview dashboard" src="https://github.com/user-attachments/assets/8d85eb59-1709-485b-87f7-da779f9b3354" />
 
 # 🧠 Customer Segmentation Dashboard – Power BI
 
